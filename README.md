@@ -26,7 +26,7 @@
 
 0,56 -> 11
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_17.01.2022/blob/main/Task_1.py "Открыть")
 
 ---
 
@@ -40,7 +40,7 @@
 
 Сумма: 9.06
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_17.01.2022/blob/main/Task_2.py "Открыть")
 
 ---
 
@@ -58,7 +58,7 @@
 
 Сумма: 9.06
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_17.01.2022/blob/main/Task_3.py "Открыть")
 
 ---
 
@@ -70,7 +70,7 @@
 
 [1.1, 1.2, 3.1, 5, 10.01] => 0.19
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_17.01.2022/blob/main/Task_4.py "Открыть")
 
 ---
 
@@ -86,6 +86,8 @@
 
 2 -> 10
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_17.01.2022/blob/main/Task_5.py "Открыть")
 
 ---
+
+:point_right: [Вначало](#return "Вернуться вначало")
